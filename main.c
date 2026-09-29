@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Whale and WinterSolstice\n");
+    printf("Whale and WinterSolstice 4EVER -feature\n");
 }
